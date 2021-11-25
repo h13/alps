@@ -8,6 +8,8 @@
 
     <!-- Ontology -->
     <descriptor id="id" def="https://schema.org/identifier" title="identifier"/>
+
+    <descriptor id="code" def="https://schema.org/identifier" title="code"/>
     <descriptor id="articleBody" def="https://schema.org/articleBody" title="article body"/>
     <descriptor id="dateCreated" def="https://schema.org/dateCreated" title="create date"/>
     <descriptor id="test" />
